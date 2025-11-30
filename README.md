@@ -6,20 +6,6 @@
   <link rel="stylesheet" href="FerreiraPlays.css">
 </head>
 <body>
-  <header>
-    
-    <nav>
-      <a href=""><img src="imagem/3.png" alt="" height="50px"></a>
-    
-      <ul>
-        <li><a href="#">Início</a></li>
-         <li><a href="#">Vídeo</a></li>
-        <li><a href="#">Login</a></li>
-      </ul>
-    </nav>
-    
-  </header>
-
 <section class="container inicio" >
    
 <div class="texto__inicio">
